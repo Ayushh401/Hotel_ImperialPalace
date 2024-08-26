@@ -2,13 +2,13 @@
 
 <h3 align="center"> Home Page </h3>
 
-![Unable to load image file](https://github.com/pooranjoyb/Hotel_ImperialPalace/blob/master/samples/sample.png?raw=true)
+![Unable to load image file](https://github.com/ayushraj/Hotel_ImperialPalace/blob/master/samples/sample.png?raw=true)
 
 ---
 
 <h3 align="center"> About Page </h3>
 
-![Unable to load image file](https://github.com/pooranjoyb/Hotel_ImperialPalace/blob/master/samples/aboutpage.png?raw=true)
+![Unable to load image file](https://github.com/ayushraj/Hotel_ImperialPalace/blob/master/samples/aboutpage.png?raw=true)
 
 ---
 
