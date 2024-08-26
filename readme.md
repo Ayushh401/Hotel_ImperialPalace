@@ -23,7 +23,7 @@ Welcome to Hotel-Imperial Palace</h3>
  <h3 align="center">How to access this project ? </h3>
  
   **Using the link**
-https://pooranjoyb.github.io/Hotel_ImperialPalace/
+https://ayushraj.github.io/Hotel_ImperialPalace/
 
 
  **Using Gitbash to clone**
